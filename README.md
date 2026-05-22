@@ -18,7 +18,7 @@
 | 02 | [Algorithm Complexity](./02-algorithm-complexity) | ✅ Done |
 | 03 | [Big-O Cheat Sheet](./03-big-o-cheat-sheet) | ✅ Done |
 | 04 | [Arrays](./04-arrays) | ✅ Done |
-| 05 | [Strings](./05-strings) | ⏳ Pending |
+| 05 | [Strings](./05-strings) |  ✅ Done |
 | 06 | [Linked Lists](./06-linked-lists) | ⏳ Pending |
 | 07 | [Stacks & Queues](./07-stacks-queues) | ⏳ Pending |
 | 08 | [Recursion](./08-recursion) | ⏳ Pending |
